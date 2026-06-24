@@ -1,0 +1,6 @@
+
+# Daily sea-ice anomalies around Antarctica
+
+Work-in-progress repository that produces sea-ice anomaly plots using
+the daily NSIDC sea-ice data tools
+(<https://nsidc.org/sea-ice-today/sea-ice-tools>).
