@@ -20,7 +20,7 @@
 
 ## Required packages
 library(pacman)
-pacman::p_load(tidyverse, dplyr, magrittr, here, openxlsx, ggtext)
+pacman::p_load(tidyverse, dplyr, magrittr, here, openxlsx, ggtext,ggh4x)
 
 # Notes on setup
 # Nothing to see here
